@@ -2,7 +2,7 @@ var baza = {};
 
 baza.members = [
 	"skoorupa",
-	"сочное яблоко",
+	"Ruski",
 	"Mathio",
 	"Adam10lol",
 	"Scorpion",
